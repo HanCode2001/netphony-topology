@@ -17,7 +17,7 @@
  /*
  * The original rocksow library has been modified to support multicast.
 */
-
+#include <stdint.h>
 #include <errno.h>
 #include <string.h>
 #define  __USE_MISC
